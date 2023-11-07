@@ -1,0 +1,37 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"search.useIgnoreFiles": true,
+	"editor.formatOnSave": true,
+	"editor.wordWrapColumn": 120,
+	"search.exclude": {
+		"**/node_modules": true
+	},
+	"cSpell.words": [
+		"carbeeza",
+		"Howie's",
+		"imgset",
+		"mdunham",
+		"onboarded",
+		"ultralead",
+		"vinaudit",
+		"Yonge"
+	],
+	"[html]": {
+		"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+	},
+	"cSpell.ignoreWords": [
+		"Carma",
+		"Habberstad",
+		"Implc",
+		"Kemptville",
+		"NZGK",
+		"Orillia",
+		"Qpgne",
+		"Suuj",
+		"advantagebmw",
+		"cellspacing",
+		"habberstadbmw",
+		"lauderdalebmw",
+		"noopener"
+	]
+}
